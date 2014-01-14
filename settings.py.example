@@ -1,0 +1,5 @@
+xbmc_host = "http://remotehost:8080/jsonrpc"
+xbmc_user = "xbmc"
+xbmc_pass = "xbmc"
+
+volume_step = 5
