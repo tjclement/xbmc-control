@@ -4,8 +4,9 @@ XBMC Remote Control
 Allows for controlling a remote XBMC mediacenter with your keyboard!
 
 ## Current Features
- * Navigation (directional keys, select, back, contextmenu)
+ * Navigation (directional keys, select, back, contextmenu, OSD)
  * Volume control (up/down, toggle mute)
+ * Subtitle selection
 
 ## Requirements
  * xbmc-json, available through pip (pip install xbmc-json)
